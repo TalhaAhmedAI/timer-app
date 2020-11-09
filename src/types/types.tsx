@@ -6,7 +6,7 @@ export type timeState = {
 }
 
 export type timerPropsTypes = {
-    time: timeState;
+    time: timeState
 }
 
 export type timerButtonsPropsTypes = {
